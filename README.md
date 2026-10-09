@@ -30,6 +30,7 @@ A top-down action RPG prototype built in Godot 4.3. I made it to learn how to st
 - **Language:** GDScript
 
 ## How to run
+Simply download the .exe from [Releases](https://github.com/Lokacoca/aarpg-game/releases)
 
 1. Install [Godot 4.3](https://godotengine.org/download).
 2. Clone this repository.
