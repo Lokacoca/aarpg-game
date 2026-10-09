@@ -44,7 +44,7 @@ Alternativly:
 
 - How the state machine pattern keeps character logic organised and easy to extend
 - How to split a game into reusable scenes instead of large monolithic ones
-- How to structure a project so new enemies, items and levels can be added without rewriting existing code
+- How to structure a project modularly so new enemies, items and levels can be added without rewriting existing code
 
 ## Status
 
